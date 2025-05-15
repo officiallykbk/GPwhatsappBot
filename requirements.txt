@@ -1,0 +1,6 @@
+flask 
+twilio 
+requests
+Pillow 
+pyzbar
+gunicorn
